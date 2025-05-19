@@ -1,0 +1,14 @@
+no/coop/task/streamer/config/WebClientConfig.class
+no/coop/task/streamer/controllers/PublicPostController.class
+no/coop/task/streamer/services/PublicPostProvider.class
+no/coop/task/streamer/models/AuthorProfile.class
+no/coop/task/streamer/config/FederatedPlatformProperties.class
+no/coop/task/streamer/utils/Utility.class
+no/coop/task/streamer/CoopSteamerApplication.class
+no/coop/task/streamer/services/implementations/FederatedPlatformPostService.class
+no/coop/task/streamer/exceptions/ApiClientRequestException.class
+no/coop/task/streamer/services/PublicPostAggregatorService.class
+no/coop/task/streamer/models/PublicPost.class
+no/coop/task/streamer/services/implementations/FederatedPlatformPostService$1.class
+no/coop/task/streamer/config/FederatedPlatformProperties$Platform.class
+no/coop/task/streamer/exceptions/GlobalExceptionHandler.class

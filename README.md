@@ -13,7 +13,7 @@ change. Added Unit tests where its needed.
 * clone the project from github
 * run "mvn clean install"
 * Run the server locally "mvn spring-boot:run"
-* You can also access the endpoints by CURL "http://localhost:8080/stream-public-posts" and "http://localhost:8080/public-posts"
+* You can also access the endpoints by CURL "curl -N -H "Accept: text/event-stream" http://localhost:8080/api/v1/posts/stream" and "curl -H "Accept: application/json" http://localhost:8080/api/v1/posts "
 * For running inside Docker container:
 * * install Docker on your local machine
 * * go inside the project folder

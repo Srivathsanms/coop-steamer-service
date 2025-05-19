@@ -1,6 +1,6 @@
-# Read Me First
+# Read Me 
 
-### Data Service
+### Coop Steamer Service
 This Service is responsible for collecting blog posts
 from multiple sources. This service serves the posts to
 the client-backend. The service is built in a way that it is really easy

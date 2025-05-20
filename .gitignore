@@ -1,0 +1,51 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Protobuf
+/generated/
+**/generated-sources/
+**/generated-sources/**
+
+# gRPC
+**/grpc-java/
+**/proto-java/
+
+# IDE build folders
+bin/
+build/
+
+# Application properties override
+application-local.properties
+application-secrets.properties
+
+# Node/npm artifacts (if frontend is embedded)
+node_modules/
+dist/
+
+# System
+*.swp
+*.swo

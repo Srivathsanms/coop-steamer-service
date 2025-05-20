@@ -31,7 +31,7 @@ coop-steamer-service/
 │   │   │   └── CoopSteamerApplication.java
 │   │   └── resources/
 │   │       ├── application.properties
-│   │       └── proto/ (future gRPC support)
+│   │   
 │   └── test/
 │       └── java/no/coop/task/streamer/
 │           └── tests for utils and service
